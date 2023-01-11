@@ -9,12 +9,12 @@ print(type(y))
 print("_______________________________________________")
 
 # WITH PYTHORCH:
-# import torch
-# x_pt = torch.tensor(25)
-# print(x_pt)
-# print(x_pt.shape)
+import torch
+x_pt = torch.tensor(25)
+print(x_pt)
+print(x_pt.shape)
 
-# print("_______________________________________________")
+print("_______________________________________________")
 
 # WITH TENSORFLOW
 import tensorflow as tf
