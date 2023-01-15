@@ -45,6 +45,6 @@ V = np.concatenate((np.matrix(v).T,
                     np.matrix(v2).T,
                     np.matrix(v3).T),
                    axis=1)
-print(V )
+print(V)
 
 
